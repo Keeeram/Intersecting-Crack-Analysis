@@ -6,7 +6,9 @@
 ## Usage
 Step 1:
 `pip install -r requirements.txt`
+
 Step 2:
 Change the main.py image path and model path;
+
 Step3:
 Run the main.py;
